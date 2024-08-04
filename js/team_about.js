@@ -3,22 +3,22 @@ document.addEventListener("DOMContentLoaded", function () {
         {
             name: "Ardi Setyiawan",
             position: "Informatika",
-            imgSrc: "images/ardi.jpg",
+            imgSrc: "images/ardi.JPG",
         },
         {
             name: "Bintang Arya Nugraha",
             position: "Ilmu Pemerintahan",
-            imgSrc: "images/bintang.jpg",
+            imgSrc: "images/bintang.JPG",
         },
         {
             name: "Devi Khuan Aurellia",
             position: "Akuntansi",
-            imgSrc: "images/uan.jpg",
+            imgSrc: "images/uan.JPG",
         },
         {
             name: "Enji Dwi Putri",
             position: "Farmasi",
-            imgSrc: "images/enji.jpg",
+            imgSrc: "images/enji.JPG",
         },
         {
             name: "Hermansyah",
@@ -28,37 +28,37 @@ document.addEventListener("DOMContentLoaded", function () {
         {
             name: "Muhammad Arief Wicaksana",
             position: "Ilmu Pemerintahan",
-            imgSrc: "images/arif.jpg",
+            imgSrc: "images/arif.JPG",
         },
         {
             name: "Muhammad Haikal Saharuddin",
             position: "Farmasi",
-            imgSrc: "images/haikal.jpg",
+            imgSrc: "images/haikal.JPG",
         },
         {
             name: "Putri Herli Wijaya",
             position: "Kehutanan",
-            imgSrc: "images/uty.jpg",
+            imgSrc: "images/uty.JPG",
         },
         {
             name: "Rafi Izdihaar",
             position: "Informatika",
-            imgSrc: "images/rafi.jpg",
+            imgSrc: "images/rafi.JPG",
         },
         {
             name: "Saidul Bahri",
             position: "Ilmu Pemerintahan",
-            imgSrc: "images/saidul.jpg",
+            imgSrc: "images/saidul.JPG",
         },
         {
             name: "Salsabila Maharani Amelia",
             position: "Statistika",
-            imgSrc: "images/sabil.jpg",
+            imgSrc: "images/sabil.JPG",
         },
         {
             name: "Sumarni Ratuloli",
             position: "Ekonomi Syariah",
-            imgSrc: "images/arni.jpg",
+            imgSrc: "images/arni.JPG",
         }
     ];
 
