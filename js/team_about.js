@@ -23,7 +23,7 @@ document.addEventListener("DOMContentLoaded", function () {
         {
             name: "Saidul Bahri",
             position: "Ilmu Pemerintahan",
-            imgSrc: "images/saidul.jpg",
+            imgSrc: "images/saidul.JPG",
         },
         {
             name: "Muhammad Haikal Saharuddin",
@@ -53,7 +53,7 @@ document.addEventListener("DOMContentLoaded", function () {
         {
             name: "Hermansyah",
             position: "Akuntansi",
-            imgSrc: "images/herman.JPG",
+            imgSrc: "images/herman.jpg",
         },
         {
             name: "Rafi Izdihaar",
